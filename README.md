@@ -1,4 +1,4 @@
-![logo](https://github.com/Kunal2878/Kunal2878/blob/main/Github_banner.png)
+![logo](https://github.com/Kunal2878/Kunal2878/blob/main/Github_banner.png)(https://github.com/Kunal2878/Kunal2878/blob/main/Github_banner.png))
 <h1 align="center">Hi 👋, I'm Kunal Paul.</h1>
 <h3 align="center">A passionate Fullstack developer, AI/ML enthusiast from India</h3>
 
