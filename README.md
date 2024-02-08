@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.example.com](www.example.com)
 
-- 💬 Ask me about **react, vue,c,c++,java,python**
+- 💬 Ask me about **NextJs, React, Vue, C, C++, Python, Java**
 
 - 📫 How to reach me **kunal.paulitinfo@gmail.com**
 
