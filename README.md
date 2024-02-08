@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, vue,c,c++,java,python**
 
-- 📫 How to reach me **kunaladvanceit2001@gmail.com**
+- 📫 How to reach me **kunal.paulitinfo@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bM4niVbRd68wtc41H9vjdlanStIA7zvG/view?usp=sharing](https://drive.google.com/file/d/1bM4niVbRd68wtc41H9vjdlanStIA7zvG/view?usp=sharing)
 
